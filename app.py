@@ -1,9 +1,7 @@
 def addition(a,b):
     return a+b
 def subtract(a,b,c):
-    if a>b:
-        return a-b-c
-    else:
-        return b-a
+    return a-b-c
+    
 def division(a,b):
     return a/b  
